@@ -24,6 +24,7 @@ This is the open data from the Government of Telangana state, India. https://dat
 ### Data Storage: 
 - Store the processed data in the designated "processed" folder within ADLS.
 ### Data Warehousing: 
+- Creating a Star Schema
 - Load the processed data into Synapse Analytics by creating fact and dimension tables.
 - Creating Stored Procedures
 - Executing Stored Procedures for External Tables
