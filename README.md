@@ -3,7 +3,7 @@
 Automated data transformation using Azure Data Factory and Databricks, enabling seamless integration between ADLS and Synapse Analytics for efficient warehousing and visualization in Power BI.
 
 ## Architecture
-<img src="https://github.com/taqhiBhai/Vehicle-Registration-Data-Engineering-Project-On-Azure/blob/main/PowerBI/Architecture.png?raw=true">
+![Architecture!](PowerBI/Architecture.png)
 
 ## Techonologies Used
 - Azure Data Lake Storage
