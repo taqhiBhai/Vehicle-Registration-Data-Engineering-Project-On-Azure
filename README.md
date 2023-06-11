@@ -29,15 +29,15 @@ This is the open data from the Government of Telangana state, India. https://dat
 - Creating Stored Procedures
 - Executing Stored Procedures for External Tables
 
-<img src="https://github.com/taqhiBhai/Vehicle-Registration-Data-Engineering-Project-On-Azure/blob/main/Synapse%20SQL%20scripts/star_schema.png?raw=true">
+![StarSchema!](Synapse%20SQL%20scripts/star_schema.png)
 
 ### Data Visualization: 
 - Utilize Power BI to create visually appealing and interactive reports and dashboards for data analysis.
 
 1) Number of registrations by Maker and Model Name
 
-<img src="https://github.com/taqhiBhai/Vehicle-Registration-Data-Engineering-Project-On-Azure/blob/main/PowerBI/report_page-0001.jpg?raw=true">
+![Report_1!](PowerBI/report_page-0001.jpg)
 
 2) Commonly Used Fuels
 
-<img src="https://github.com/taqhiBhai/Vehicle-Registration-Data-Engineering-Project-On-Azure/blob/main/PowerBI/report_page-0003.jpg?raw=true">
+![Report_2!](PowerBI/report_page-0003.jpg)
